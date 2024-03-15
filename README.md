@@ -1,2 +1,2 @@
 # Assignments-tsu
-This repository houses all assignments folders for the introduction to programming course at Tomsk state University 
+#This repository houses all assignments folders for the Programming course at Tomsk state University 
